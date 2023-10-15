@@ -126,11 +126,3 @@ function setComplited(id){
   setTodos()
   showText()
 }
-
-function editTodo(id){
-
-}
-function open(){
-
-}
-function close(){}
